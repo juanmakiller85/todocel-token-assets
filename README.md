@@ -66,7 +66,7 @@ TodoCel avanza hacia una infraestructura digital sólida, trazable y visualmente
 Las imágenes aquí contenidas son propiedad de TodoCel. Su uso está permitido exclusivamente para fines de integración técnica, visualización en wallets y documentación relacionada con los tokens emitidos por TodoCel.
 
 Para solicitudes de uso externo, colaboraciones o licenciamiento, contactar a:  
-📧 contacto@todocel.cu
+📧 todocelstore@gmail.com
 
 ---
 
