@@ -1,4 +1,3 @@
-# todocel-token-assets
 # 📦 TodoCel Token Assets
 
 Repositorio oficial de íconos institucionales para los tokens de inventario y el token REWARD de TodoCel.  
@@ -31,7 +30,7 @@ Las imágenes están organizadas por categoría de producto. Cada ícono represe
 | Protector     | protector_icon.png     | Protección física para dispositivos    |
 | Adaptador     | adapter_icon.png       | Conectividad entre puertos             |
 | Smartwatch    | smartwatch_icon.png    | Reloj inteligente                      |
-| Teléfono      | phone_icon.png         | Dispositivo móvil                      |
+| Teléfono      | phone_icon.png         | Dispositivo móvil                     |
 | Pen Drive     | pendrive_icon.png      | Almacenamiento USB portátil            |
 
 ---
@@ -39,3 +38,41 @@ Las imágenes están organizadas por categoría de producto. Cada ícono represe
 ## 🌐 Integración en Stellar
 
 Para integrar estos íconos en wallets o exploradores Stellar, utiliza la siguiente estructura de URL:
+---
+
+## 🛣️ Roadmap institucional
+
+TodoCel avanza hacia una infraestructura digital sólida, trazable y visualmente coherente. Este repositorio es parte de un plan mayor:
+
+### 🔹 Corto plazo
+- Completar el set de íconos para cada artículo tokenizado del inventario.
+- Integrar el token REWARD en el sistema de fidelización interna.
+- Optimizar la visualización de íconos en wallets compatibles (Lobstr, StellarTerm, Albedo).
+
+### 🔹 Mediano plazo
+- Documentar cada token con metadatos técnicos y visuales.
+- Publicar catálogos digitales con integración QR y enlaces a GitHub.
+- Establecer una guía institucional para diseño de nuevos íconos.
+
+### 🔹 Largo plazo
+- Escalar el sistema de inventario tokenizado a nivel nacional.
+- Posicionar TodoCel como referencia en branding institucional sobre blockchain.
+- Integrar trazabilidad visual en sistemas de auditoría y control operativo.
+
+---
+
+## 📄 Licencia y uso
+
+Las imágenes aquí contenidas son propiedad de TodoCel. Su uso está permitido exclusivamente para fines de integración técnica, visualización en wallets y documentación relacionada con los tokens emitidos por TodoCel.
+
+Para solicitudes de uso externo, colaboraciones o licenciamiento, contactar a:  
+📧 contacto@todocel.cu
+
+---
+
+## 🏛️ Sobre TodoCel
+
+TodoCel es una tienda especializada en electrónica y accesorios, con una visión institucional y tecnológica para el mercado cubano. Nuestro ecosistema digital combina trazabilidad, diseño visual y activos blockchain para ofrecer una experiencia confiable y moderna.
+
+---
+
